@@ -7,6 +7,9 @@ class Animal
     #attr_reader(:nome, :patas, :cauda)
     #attr_writer(:nome, :patas, :cauda)
     
+    # Ruby Class Variables
+    # @@total = 0
+    
     # @nome 
     # @patas 
     # @cauda 
